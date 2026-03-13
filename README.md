@@ -1,2 +1,2 @@
-# Dudhwala
-Milk Business Management
+# DudhWala
+Milk delivery business management dashboard.
